@@ -1,0 +1,22 @@
+body {
+    max-width: 768px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+.post-form {
+    margin-bottom: 2rem;
+}
+.post-list {
+    list-style: none;
+    padding: 0;
+}
+.post-list li {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 0.75rem;
+}
+.post-list time {
+    color: #888;
+    font-size: 0.9rem;
+}
